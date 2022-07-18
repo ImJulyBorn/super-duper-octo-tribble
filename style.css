@@ -1,0 +1,25 @@
+body{
+    font-family: 'Koulen', cursive;
+    letter-spacing: 2.5px;
+}
+.text_image_and_result{
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px;
+    border-radius: 25px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    width:1270px;
+    box-shadow: 10px 10px 10px rgba(128, 128, 128, 0.493);
+}
+h5{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+#case_study{
+    color: red;
+    font-size: 33px;
+}
+#logo{
+    font-size: 30px;
+}
